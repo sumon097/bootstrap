@@ -2,6 +2,9 @@
     background-color: #fceae8;
     border-radius: 8px;
 }
+.container{
+    margin-bottom: 90px;
+}
 .carousel-item{
     padding: 20px 40px;
 }
