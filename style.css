@@ -38,6 +38,18 @@
 .categories img{
     width: 100px;
 }
-.shoes{
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.card{
     border: none;
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px; lightgray;
+}
+#subscriber{
+    height: 300px;
+}
+#subscriber h6{
+    color: gray;
 }
